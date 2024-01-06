@@ -1,0 +1,42 @@
+/* Home.css */
+
+/* Header Styling */
+.header {
+    background-color: #f8f9fa;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .header img {
+    margin-right: 10px;
+  }
+  
+  .header-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  
+  .username {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .header-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Card Styling */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  /* Footer Styling */
+  .footer {
+    background-color: #f8f9fa;
+    padding: 10px;
+  }
+  

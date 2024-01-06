@@ -1,0 +1,6 @@
+Web chat is quite an important part of any tech support department. We are now living in a global village. A company can
+have clients from anywhere. It's quite difficult for any tech guy to text chat and voice chat with other language speaking
+customers. We want a system where a chat system should handle all the language related problems. Customer will text
+chat or voice chat in his own language and the tech guy will communicate on his own. The system will handle all the
+language translations, in real time, including text and voice, automatically, at the server end. Google translation api free
+version is recommended for use.

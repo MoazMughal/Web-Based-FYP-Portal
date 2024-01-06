@@ -1,0 +1,7 @@
+University receives scholarships from different donors and distributes them among students. The goal of this project is to
+assist the university and students in maintaining and getting information about scholarships. There will be three main
+stakeholders of the system (1) Donors (2) Students, and (3) Scholarship administrators. Donors should be able to provide
+information about the amount they want to donate, duration, eligibility criteria, etc. The students will be able to provide
+their credentials and apply for the scholarships. The scholarship administrators will manage the distribution of the
+scholarships. The system would also be able to generate reports for administrators and donors. Technologies: Web
+Development

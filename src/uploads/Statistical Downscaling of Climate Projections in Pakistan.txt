@@ -1,0 +1,7 @@
+Pakistan is one of the countries most vulnerable to climate change. Information related to future projections of climate
+change under various greenhouse gas emission scenarios is crucial for developing and implementing policies to mitigate
+the impacts of future climate change. This project aims to translate information from coarse-resolution climate models to
+the meteorological station level using a state-of-the-art statistical downscaling approach for multiple climate variables.
+Additionally, a user-friendly climate dashboard will be developed, allowing for the selection and display of various climate
+variables for each station. In essence, our goal is to convert large-scale climate data models into localized station-level
+insights, offering valuable information for climate analysis and decision-making.

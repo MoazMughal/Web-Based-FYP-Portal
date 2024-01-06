@@ -1,0 +1,6 @@
+Users tend to download multiple copies of the same document over time. Sometimes, they name it differently, but the
+contents are the same. Consequently, our repositories are filled with redundant documents which leads to storage, search,
+and performance issues. An App / tool is required that should help users in avoiding / handling such unnecessary copies,
+downloads etc. Important factors for assessing the duplicates are metadata of the resource as well as its contents. App
+should also provide visualization to differentiate between various copies so that user may decide to delete / retain the
+resource in a well-informed manner. That would also reduce the action of manually going through various copies

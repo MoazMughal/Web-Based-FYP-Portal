@@ -1,0 +1,5 @@
+Use of digital images in different fields is growing significantly. These images are widely used in forensics and public safety,
+for example suspect photos, crime scenes and biometric photos etc. Availability of image manipulation tools has made
+digital image validity a problem. Most common type of forgeries are copy move forgery and splicing. In this project,
+student has to develop software for image forgery detection using different artificial intelligence and image processing
+techniques.

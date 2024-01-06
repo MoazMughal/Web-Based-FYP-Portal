@@ -1,0 +1,3 @@
+CV Sorting for Recruitment: Create a tool to assist in the recruitment process by automatically analyzing resumes and CVs.
+This project involves parsing and extracting relevant information from CVs, such as skills, experience, and filtering them
+according to requirements

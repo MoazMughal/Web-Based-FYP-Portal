@@ -1,0 +1,7 @@
+Internet become a fundamental right of humans nowadays. One of the most frequent activities on the internet is searching
+for precise information need. Web Search Engines (WSE) are the only online solution to find the precise information
+needed. WSE maintains logs of user searches and can identify user age, region, profession, and interest. This is not
+desirable for a sensitive organization. There is a need to hide sensitive user keywords in such a way that WSE is not able to
+predict correctly. After the collection of sensitive terms, deep fake cover queries will be generated to dilute internet traffic
+which as a result will make it challenging for WSE to predict the intent of users based on sensitive queries. This will
+improve the cyber / privacy protection of any organization and hide R&D interest and intent.

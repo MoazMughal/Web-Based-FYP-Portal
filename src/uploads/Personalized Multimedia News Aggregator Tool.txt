@@ -1,0 +1,8 @@
+The news aggregator tool gathers the latest news from various sources and aggregates the news-related content over a
+single location. The aggregated news content is multimedia-based since it belongs to different media formats (i.e., HTML
+web pages, video clips, images, audio, etc.). The personalized news aggregator tool may satisfy the news information
+needs of the users in a unified way. In this project, the student will design and develop a multimedia news aggregator tool
+that considers the specific information needs of the news users and aggregate the multimedia-based news content
+belonging to different media formats (i.e., HTML text, videos, image, audio, etc.) on the interested topic from several
+sources. The objective is to provide a usable and interactive exploration of the user's desired multimedia-based news
+content in personalized settings.

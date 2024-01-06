@@ -1,0 +1,5 @@
+There are more than 7000 glaciers and about 2400 Glacier lakes in the northern region of Pakistan. The project is
+composed of 3 modules : a) Creating the database schema (after researching the parameters/attributes) for the lakes;
+data available on different sites. Schema will log the variations in lake characteristics. b) Analyse the parameters
+responsible for creation of such lakes; create a database which logs the changes in the parameters values over time. c)
+Timeline based database for GLOFs, of the Glacier Lakes and there effects

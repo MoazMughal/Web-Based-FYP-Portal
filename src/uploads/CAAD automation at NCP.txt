@@ -1,0 +1,5 @@
+The Collaboration and Academic Activities (CAAD) department at NCP is dedicated to enhancing collaboration on both
+national and international fronts. By partnering with esteemed institutions like ICTP and TWAS, NCP aims to fortify its ties
+with universities, research institutes, and science academies. Through conferences, workshops, and seminars, NCP strives
+to cater to the specific needs of Pakistani universities and R&D organizations while promoting science among students. The
+candidate will work to develop web applications to automate various manual procedures of the CAAD department such as management of projects, MOUs, progress reports, publications, workshops/seminars/symposium/training/schoos etc.

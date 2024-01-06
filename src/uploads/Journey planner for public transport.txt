@@ -1,0 +1,4 @@
+People often face challenges while travelling using public transport due to unavailability of detailed information about public
+transport. The goal of this project is to facilitate users in availing public transport. Given the schedule and routes of public
+transport, the user will provide their origin and destination and the system will display the routes available to the user. The
+routes will be ranked or filtered based on different criteria, like minimum fare, minimum vehicle changes, fastest route, etc.

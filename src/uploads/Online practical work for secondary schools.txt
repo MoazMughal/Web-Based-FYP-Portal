@@ -1,0 +1,13 @@
+It has become difficult for the schools to financially manage effective and operational laboratories where they let their
+students do the practical stuff such as in physics and chemistry in real Lab. Environment. As a result, students hardly do
+the practical work. Using computing technology, we can at least provide virtual experience of Lab. Work. For this purpose,
+secondary school chemistry experiments will be the target for this project. The crucial components are the procedure to
+perform, and the lab equipment to use.
+Procedure for the experiment: It consists of the main task to do, and the sub tasks which may consist of actions such as
+performing actions, observing actions, and actions of drawing conclusions.
+Lab. Equipment: It would be available as a collection to choose from.
+Practical would have two modes, i.e. Demo / Tutorial and Practice. In Demo mode, the procedure would be displayed and
+would remain fixed. Accordingly, equipment from the equipmentâ€™sâ€™ collection would be selected by the system in a
+predefined manner. During each step of the procedure, explanation would be provided. In practice mode, only the title of
+the experiment would be given, and the student would need to frame the procedure, and the list of equipment to use. The
+equipment would be manipulated in direct manipulation mode.

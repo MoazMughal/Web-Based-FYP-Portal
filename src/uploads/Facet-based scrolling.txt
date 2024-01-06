@@ -1,0 +1,5 @@
+Web browsers generally provide horizontal and vertical scroll bars based upon the amount of content. While interacting
+with Web content, users feel that there should be multiple axes for scrolling, e.g. if a user is reading a book online then
+scrolling based only upon figures, tables, examples, citations etc. would greatly enhance the reading experience. For this
+purpose, the content would need to be processed for facet-based representation, and then appropriate UI widgets would
+need to be developed.
