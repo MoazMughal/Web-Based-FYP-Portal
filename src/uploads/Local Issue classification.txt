@@ -1,0 +1,4 @@
+Local issues are highlighted in national newspapers, but they are not communicated properly to the relevant
+department(s). This purpose of this project is to automatically extract the local issues from national newspapers, identify
+type of issues based on their contents and communicate to relevant department(s) and stakeholders. The system will also
+keep track of the issue(s) to see whether they are resolved by the relevant department within prescribed time.

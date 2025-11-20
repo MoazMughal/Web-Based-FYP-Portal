@@ -1,0 +1,10 @@
+Develop an eye tracking application that can detect Autism where affected person/child does not give/maintain eye contact
+with other individuals. Autism is a neurological developmental disorder where a person struggles to maintain eye contact,
+social interaction, communication challenges along with other developmental delays. Early intervention can play a
+significant role in childâ€™s development; hence, early detection is very important. Symptoms usually start at the age of 6
+month but due to the lack of understanding, parents misinterpret it and wait for its official diagnosis till the age of 3 years
+which misses his early years of learning. Detecting autism through infantâ€™s eye tracking (eye movement patterns and
+focus areas) can be a helpful tool to start therapies as early as possible. There is a need of an eye tracking application that
+can capture eye movements and focus areas while watching a video/an image for specific time frame. These movements
+can then be compared with typical individual eye movement patterns. Machine learning model like neural networks can be
+used for training and classification of typical/non typical individuals.

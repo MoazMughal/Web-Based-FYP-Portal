@@ -1,0 +1,5 @@
+The goal of the project is to assist people in parking their vehicles. Designated parking areas will be monitored via cameras
+to count the number of positions of free and available parking slots. An admin dashboard will enable the administrator to
+add parking spaces and mark parking slots. The user dashboard/app will allow them to see the free slots. There should be
+a provision to reserve a slot on payment basis. There should be a mechanism to identify vehicles which are parked illegally
+(without payment). Recommended technologies: OpenCV, Web Development.

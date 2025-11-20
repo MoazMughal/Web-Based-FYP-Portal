@@ -1,0 +1,8 @@
+Social media allows users to create, share, and exchange multimedia content over the web via virtual communities, i.e.,
+Facebook, Twitter, Instagram, LinkedIn, YouTube, etc. The content generated via social media sites are multimedia-based,
+diverse, and heterogeneous. The users want to interact with the multimedia content in an integrated and usable way. The
+Social media aggregator tools allow users to collate posts and updates on specific topics via social media feeds. However,
+the discovery of contents is cumbersome. In this project, the student will design and develop an interactive multimediabased social space discover tool to explore multimedia-based content. The tool will (i) aggregate the social media content
+belonging to different media formats from multiple sources, (ii) manage the archived multimedia contents, and (iii) provide
+the exploration of multimedia content. The objective of the tool is to provide usable interaction with multimedia content in
+an integrated, interactive, and usable way.

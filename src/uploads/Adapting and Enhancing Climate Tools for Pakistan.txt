@@ -1,0 +1,6 @@
+In recent times, climate tools have proven invaluable in converting complex climate model datasets into user-friendly
+formats and for basic statistics and graphics. In this research, an already-developed climate tool will be transferred from
+Africa to Pakistan. Climate models suitable for the region will be identified, downloaded, and bias-corrected for this
+purpose. At present, this tool only incorporates gridded datasets from the climate models. As part of this research, data
+from socio-economic indicators for Pakistan will also be integrated into the tool. This tool will provide a framework for
+scientists and practitioners to calculate risk estimates based on indicators of hazards, vulnerability, and exposure.

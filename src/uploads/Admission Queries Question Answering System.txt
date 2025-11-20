@@ -1,0 +1,3 @@
+This is a web and NLP based application using python. This application is focused to address student admission related
+queries in a Question Answering session. The salient features include navigation to admission related information, engage
+with students addressing frequently asked questions in a question answering session.

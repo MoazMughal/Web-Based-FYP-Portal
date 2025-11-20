@@ -1,0 +1,5 @@
+C scanner is a desktop-based application for recognizing vulnerabilities in C language. It has been developed in Net beans IDE in Linux OS. It is targeted for students and organizations with C language.
+
+ 
+
+This tools is very simple to use. The user inputs his code in C scanner and parse it. The code is parsed and tokens are generated. Then it generates Abstract Syntax Tree for visual inspection from the code and recognizes code according to rules defined by SEI CERT C Coding Standard.

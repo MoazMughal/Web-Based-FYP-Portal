@@ -1,0 +1,7 @@
+Teaching in many countries is being done online, either partially or fully. Still, mostly there is a teacher at the other end. It
+is high time to think about automating the role of teacher as well, in subject areas where it is possible and feasible to do
+so. This is also appealing because of abundant bandwidth and computing facilities available to the users. As a first attempt,
+target is to realize one or two specific chapters from high school Mathâ€™s book such as number system, basic arithmetic,
+or differentiation. A number of APIs also exist which can be extended for the purpose. The system should have multiple
+modes namely monologue, and dialogue. In dialogue mode the delivery would correspond with the questions asked by the
+students.

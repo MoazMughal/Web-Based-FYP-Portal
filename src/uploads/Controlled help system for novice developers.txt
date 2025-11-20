@@ -1,0 +1,7 @@
+Users tend to give up programming because of frequent errors and especially because of their inability to resolve those
+errors. There is a need to gather data as to what kind of errors they commit in a specific setting. Then we can think of
+providing them help according to multiple levels without compromising their learning. Specific setting means a specific
+development technology, tools and the problem domain. The project would aim to gather the errors over a period of
+development activity, analyze it, and try to map the resolution attempts by the user. The attempts are made on the work
+bench consisting of tools / technologies in use. Near to expert level debugging information base would be maintained by
+the system

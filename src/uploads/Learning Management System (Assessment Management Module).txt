@@ -1,0 +1,14 @@
+1. A Web-based LMS is a need of every educational institute, especially when everything is going online and more and more people are getting access to internet and computing facilities. An LMS consists of various key modules such as
+tutoring, and assessments. Besides, it also needs to make use of already existing modules such as for studentsâ€™
+registration, attendance, results, and time table. This project is related with assessments management. Following features
+need to be implemented in its initial version:
+Registration in LMS for various user types such as students, teachers, coordinators, HoD
+Class / course management: Course coordinator approves the students who indicate their preference for the course.
+Instrument management: instrument type: quiz, midterm, terminal, assignment; submission type: report, presentation,
+demonstration; work modality: individual, group; deadline etc.
+Submission / response management against each student / group of students
+Management of instructorâ€™s comments against each submitted response by the students
+Notifications management: Notifications will be generated against important events such as when student registers for a
+course, class time in time table, assessment uploaded, deadline approaching, answer sheets / response submitted,
+submission commented by the teacher, marks updated, â€¦
+Various reports will be generated, especially for the benefit of students, teacher, and HoD.

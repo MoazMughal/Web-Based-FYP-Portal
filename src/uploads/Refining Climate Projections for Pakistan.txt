@@ -1,0 +1,5 @@
+Climate models are considered state-of-the-art tools for projecting future climate change under different greenhouse gas
+emission scenarios. However, the outputs of these models are subject to uncertainties due to complex processes intrinsic to
+the Earth's system. A bias correction approach is adopted to remove biases in various climate variables. In this proposed
+work, data from multiple climate models will be bias-corrected and statistically downscaled (BCSD) to a higher resolution
+over Pakistan. Additionally, a dashboard will be developed to provide a user interface for executing the complex Pythonbased BCSD code.

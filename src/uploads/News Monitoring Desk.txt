@@ -1,0 +1,4 @@
+This is a web-based application. This application will monitor online news to give insights from relevant news to assist key
+stakeholders of industry. The analytics will be beneficial in financial sector, news industry, entertainment industry, political
+and organizational policy making, etc. The news monitor will be useful in terms of gaining insights to improve and educate
+society
